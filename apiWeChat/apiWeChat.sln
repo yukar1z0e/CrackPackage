@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 00.00
+# Visual Studio Version 00
+VisualStudioVersion = 00.0.00000.000
+MinimumVisualStudioVersion = 00.0.00000.0
+Project("{0BC0CEB0-0B0A-00D0-0D00-00A0C00BC000}") = "apiWeChat", "apiWeChat\apiWeChat.vcxproj", "{00CD0000-0ECE-0000-0BD0-0BCAC0FC0000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x00 = Debug|x00
+		Debug|x00 = Debug|x00
+		Release|x00 = Release|x00
+		Release|x00 = Release|x00
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00CD0000-0ECE-0000-0BD0-0BCAC0FC0000}.Debug|x00.ActiveCfg = Debug|x00
+		{00CD0000-0ECE-0000-0BD0-0BCAC0FC0000}.Debug|x00.Build.0 = Debug|x00
+		{00CD0000-0ECE-0000-0BD0-0BCAC0FC0000}.Debug|x00.ActiveCfg = Debug|Win00
+		{00CD0000-0ECE-0000-0BD0-0BCAC0FC0000}.Debug|x00.Build.0 = Debug|Win00
+		{00CD0000-0ECE-0000-0BD0-0BCAC0FC0000}.Release|x00.ActiveCfg = Release|x00
+		{00CD0000-0ECE-0000-0BD0-0BCAC0FC0000}.Release|x00.Build.0 = Release|x00
+		{00CD0000-0ECE-0000-0BD0-0BCAC0FC0000}.Release|x00.ActiveCfg = Release|Win00
+		{00CD0000-0ECE-0000-0BD0-0BCAC0FC0000}.Release|x00.Build.0 = Release|Win00
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E000CF00-0000-0000-ABB0-0DFEAFAC0E0E}
+	EndGlobalSection
+EndGlobal

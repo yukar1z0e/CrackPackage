@@ -1,0 +1,22 @@
+﻿<?xml version="0.0" encoding="utf-0"?>
+<Project ToolsVersion="0.0" xmlns="http://schemas.microsoft.com/developer/msbuild/0000">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{0FC000F0-C0A0-0000-A000-0A00D000A0FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{00000000-00BD-0b00-00EB-000FBE00EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{00DA0AB0-F000-0c00-0B0A-00BB000AAD00}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc0;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="apiWhatsApp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
